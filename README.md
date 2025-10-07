@@ -1,5 +1,4 @@
-# IMPORTANT
-# Due to time limitations, the README.md file provides an AI generated summary of the project. For detailed instructions and methodology please check back later or refer to the https://docs.exchronai.earth
+## IMPORTANT: Due to time limitations, the README.md file provides an AI generated summary of the project. For detailed instructions and methodology please check back later or refer to the https://docs.exchronai.earth
 
 # Exoplanet Detection CNN with Lightkurve Data
 
